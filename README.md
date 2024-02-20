@@ -5,8 +5,8 @@ Unsupervised learning for inductive node embedding generation for dynamic graphs
 **. 
 
 Please extract the files keep *unsupervisedInductiveNodeRepresentationGenrationForDynamicGraphs* and *data* direcorty under same parent directory, and run the main_*.py. To use your own data see the src/loader/dataset_loader.py and make changes accordingly.
- 
-**Keywords**: DynamicNodeEmbedding, GraphRepresentationLearning, Unsupervised graph representation learning, Inductive representation generation. 
+To change the sampling strategy.. change: models.DGNN._initialize_embeddings_HebbianImplementedDGNN.edge_sampling_strategy='deepwalk' #deepwalk,node2vec, None
+**Keywords**: Unsupervise learning on graphs, DynamicNodeEmbedding, GraphRepresentationLearning, Unsupervised graph representation learning, Inductive representation generation. 
  
 
 **Requirements**
