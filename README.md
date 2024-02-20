@@ -1,4 +1,4 @@
-# UnsupervisedInductiveNodeRepresentationForDynamicGraphs
+# Unsupervised Inductive Node Representation Learning For Dynamic Graphs
 In this project we have given framework for unsupervised learning for dynamic graphs as well as generating node embedding inductively for other snapshots of the graphs.
 **
 Unsupervised learning for inductive node embedding generation for dynamic graphs
