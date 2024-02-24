@@ -1,4 +1,5 @@
 # Unsupervised Inductive Node Representation Learning For Dynamic Graphs
+#Zhou, Wen-Gang, and Khushnood Abbas. "Unsupervised Inductive node representation learning for dynamic graphs." (2024).
 In this project we have given framework for unsupervised learning for dynamic graphs as well as generating node embedding inductively for other snapshots of the graphs.
 **
 Unsupervised learning for inductive node embedding generation for dynamic graphs
